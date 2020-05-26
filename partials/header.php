@@ -7,10 +7,10 @@
     <title>Miniblog</title>
     <link rel="stylesheet" href="./assets/css/app.css">
 </head>
-<body>
+<body class="bg-dark text-light">
 
 <div class="app-header">
 
-    
+</div> <!-- END OF APP-HEADER -->
 
-</div>
+<div class="app-content">

@@ -1,11 +1,12 @@
 <?php require_once( 'partials/header.php' ); ?>
 
 
-<div class="app-content">
 
-    I am index
 
+
+<div class="container my-5">
 </div>
+
 
 
 
